@@ -18,10 +18,8 @@ Example:
 ========
 
 ```jsseq
-BG->AM: Pass ID
-AM->Trillion: Validate ID
-Trillion->AM: Validated
-AM->BG: Token
-AM-->Karen: Hello
-Karen->BG: My boots are mine
+A->B: Message1
+B->A: Message2
+B-->>C: Message 3
+C-->>A: Message 4
 ```
