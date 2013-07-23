@@ -1,6 +1,8 @@
 Github Sequence Diagrams
 ========================
 
+Please note: This is a Chrome Extension.  You can install it from the Chrome Webstore here: https://chrome.google.com/webstore/detail/github-sequence-diagrams/okomebddpkofkggafolekknmhookbkcf
+
 Allows sequence diagrams to be embedded inside of Github issues.  Based on http://bramp.github.io/js-sequence-diagrams/.
 
 This extension will allow you to add sequence diagrams into your Github issues seamlessly.
